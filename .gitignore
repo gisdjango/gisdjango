@@ -2,3 +2,14 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Jekyll template
+_site/
+.sass-cache/
+.jekyll-metadata

@@ -2,9 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Konfiguracja środowiska](konfiguracja).
+[Utworzenie bazy danych](baza).
+[Utworzenie i konfiguracja projektu](projekt).
+[Dodanie projektu do repozytorium](git).
+[Stworzenie aplikacji](aplikacja).
+[Stworzenie modelu](model).
+[Importowanie danych](import).
+[Dodanie panelu administratora](admin).
 
-[Link to another page](another-page).
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 

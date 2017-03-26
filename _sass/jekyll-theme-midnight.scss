@@ -3,7 +3,7 @@
 @import "rouge-base16-dark.scss";
 
 body {
-  padding:0px 0 20px 0px;
+  padding:0px 0 0px 0px;
   margin: 0px;
   font:14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#f0e7d5;
@@ -226,9 +226,9 @@ dt {
 
 section {
   max-width:650px;
-  padding: 30px 0px 50px 0px;
+  padding: 30px 0px 0px 0px;
   margin: 20px 0;
-  margin-top: 70px;
+  margin-top: 0px;
 
   #title {
     border: 0;
